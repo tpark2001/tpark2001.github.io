@@ -1,0 +1,4 @@
+/* edited with unusedcss 12/5/19 */
+
+.beta,.stable,.alpha,.deprecated{margin-top:20px;padding:15px;background-color:#fafafa;border:1px solid transparent;border-radius:4px}
+.alpha{color:#8a6d3b;border-color:#faebcc}.deprecated{color:#a94442;border-color:#ebccd1}
